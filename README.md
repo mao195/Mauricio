@@ -1,2 +1,3 @@
-# Mauricio
-Web scraping COVID-19
+# Práctica 1: Web scraping
+## Descripción
+

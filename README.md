@@ -4,4 +4,4 @@ Este trabajo corresponde a la asignatura de Tipologia y ciclo de vida de  los  d
 ##  Autor:
 Mauricio Mosquera Sánchez
 ## Fuente:
-Los datos serán extraidos del siguiente enlace: https://www.worldometers.info/coronavirus/#page-top  
+Los datos son extraídos del siguiente enlace: https://www.worldometers.info/coronavirus/#page-top  
